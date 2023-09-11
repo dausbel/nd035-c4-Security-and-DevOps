@@ -1,0 +1,33 @@
+2023-09-11 14:48:23,106 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 46324 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:48:23,111 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:48:25,696 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.73 seconds (JVM running for 3.371)
+2023-09-11 14:50:32,993 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 46641 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:50:32,998 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:50:35,541 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.666 seconds (JVM running for 7.115)
+2023-09-11 14:56:54,507 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 47499 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:56:54,512 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:56:57,019 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.62 seconds (JVM running for 3.951)
+2023-09-11 14:57:08,537 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:57:08,556 INFO c.e.d.c.UserController [main] UserController.findById  with id 0
+2023-09-11 14:57:08,557 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:57:08,558 INFO c.e.d.c.UserController [main] UserController.findByUserName with username YSKM
+2023-09-11 14:57:08,558 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:57:08,845 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 47566 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:57:08,845 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:57:11,054 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.33 seconds (JVM running for 3.23)
+2023-09-11 14:57:25,156 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 47628 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:57:25,160 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:57:27,740 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.695 seconds (JVM running for 3.89)
+2023-09-11 14:57:27,788 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:57:27,788 INFO c.e.d.c.UserController [main] UserController.findById  with id 0
+2023-09-11 14:57:27,788 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:57:27,789 INFO c.e.d.c.UserController [main] UserController.findByUserName with username YSKM
+2023-09-11 14:57:27,789 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:58:16,184 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:58:16,200 INFO c.e.d.c.UserController [main] UserController.findById  with id 0
+2023-09-11 14:58:16,200 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:58:16,201 INFO c.e.d.c.UserController [main] UserController.findByUserName with username YSKM
+2023-09-11 14:58:16,201 INFO c.e.d.c.UserController [main] UserController.createUser - with username YSKM
+2023-09-11 14:58:16,498 INFO c.e.d.DausbelApplicationTests [main] Starting DausbelApplicationTests on CPP00253699A.local with PID 47749 (started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code)
+2023-09-11 14:58:16,499 INFO c.e.d.DausbelApplicationTests [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:58:18,870 INFO c.e.d.DausbelApplicationTests [main] Started DausbelApplicationTests in 2.501 seconds (JVM running for 3.343)

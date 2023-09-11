@@ -1,0 +1,4 @@
+
+2023-09-11 14:59:21,333 INFO c.e.d.DausbelApplication [main] Starting DausbelApplication on CPP00253699A.local with PID 47924 (/Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps/starter_code/target/classes started by pavodt in /Users/pavodt/Documents/Udacity-Nano-Degree-Program/Project_Deliver/Security-DevOps/nd035-c4-Security-and-DevOps)
+2023-09-11 14:59:21,336 INFO c.e.d.DausbelApplication [main] No active profile set, falling back to default profiles: default
+2023-09-11 14:59:23,968 INFO c.e.d.DausbelApplication [main] Started DausbelApplication in 2.825 seconds (JVM running for 3.495)
